@@ -196,16 +196,6 @@
       ]
     }
   ],
-  "volunteer_experience": [
-    {
-      "organization": "Heritage Point Assisted Living",
-      "position": "Computer Assistance",
-      "url": "https://www.heritage-point.com/",
-      "start_date": "2012",
-      "end_date": "2015",
-      "summary": "Helped residents with any computer problems for two hours each week. Mainly helped with networking, typing, basic instruction, and troubleshooting.",
-      "highlights": []
-    },
     {
       "organization": "Marshall University",
       "position": "Student Ambassador",
@@ -237,24 +227,109 @@
   ],
   "skills": [
     {
-      "name": "Python, Flask, Django",
+      "name": "VLAN",
       "proficiency": 100,
       "proficiency_label": "Expert"
     },
     {
-      "name": "System Administration, Linux",
-      "proficiency": 90,
-      "proficiency_label": "Advanced"
+      "name": "Trunks",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
     },
     {
-      "name": "JavaScript, HTML, CSS",
-      "proficiency": 75,
-      "proficiency_label": "Comfortable"
-    }
+      "name": "Route Guard",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+     {
+      "name": "BPDU Guard",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+ {
+      "name": "Port Security Guard",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "OSPF",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "BGP",
+      "proficiency": 90,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "MP-BGP",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "VRFs",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "L3VPN",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "L2VPN",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Inter-AS",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "CsC",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "BGP-LU",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "EVPN",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "VXLAN",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "GRE",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "IPSEC",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "L2TP",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "SSL",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
   ],
   "interests": [
     {
-      "name": "Woodworking",
+      "name": "Domotica",
       "summary": "",
       "images": [
         {
@@ -268,6 +343,13 @@
       ]
     }
   ],
-  "languages": [],
+  "languages":
+[
+  {
+      "name": "English",
+      "Certificate": "FCE",
+      "proficiency_label": "Upper Intermidiate B2",
+    },
+],
   "references": []
 }
