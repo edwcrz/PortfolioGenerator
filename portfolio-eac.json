@@ -1,1 +1,276 @@
-
+{
+  "name": "Eduardo Andrés Cruz",
+  "label": "Network Engineer",
+  "image_path": "portfolio_media/profile.jpg",
+  "contact": {
+    "email": "cruzeduardoa@gmail.com",
+    "phone": "+5491136743481",
+    "location": "Buenos Aires, AR"
+  },
+  "summary": "Senior Network Engineer con 25+ años de experiencia en arquitectura y  operación de Redes iP y Data Centers, incluyendo IP/MPLS Backbones, SD-WAN, Firewalls y automatización. 
+Mindset en cultura No-ops basada en automatización de procesos y de configuración redes y servicios de red.
+Operación de una de las redes IP mas importantes en Argentina en el momento de mayor crecimiento de la historia de las Redes IP, con aporte de valor en innovación contínua, mejora de KPI de performance y experiencia de usuario.
+Líder de equipos técnicos con enfoque en resultados y enfoque en automatización basada en Intent Based de día 0 y día 1 para otorgar día 2+ con agilidad en time to market y time to delivery, salud y alta disponiblidad de red..",
+  "url": "https://coreyms.com",
+  "social_links": 
+  [
+    {
+      "label": "eduardocruz.com",
+      "url": "https://eduardocruz.com",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@eduardocruz3797",
+      "svg_path": "img/youtube.svg"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/cruzeduardoa/",
+      "svg_path": "img/instagram.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/edwcrz",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": 
+  [
+    {
+      "company": "NEC Argentina S.A.",
+      "position": "Networking Program Manager",
+      "url": "https://ar.nec.com/",
+      "start_date": "201512",
+      "end_date": "202503",
+      "summary": "Unidad de negocios en Service Providers a nivel mundial.",
+      "highlights": 
+      [
+        "Diseño de redes IP Fabric basadas en topologías Spine-Leaf con EVPN VXLAN.",
+        "Integración de redes MetroEthernet para verticales Mobile, Residencial y B2B con Core IP/MPLS mediante Arquitectura Seamless MPLS.",
+        "Integración de múltiples data centes mediante DCI.",
+        "Integración de Data Center on-premise con el VPC de AWS.",
+        "Diseño de redes con Ingeniería de Tráfico con RSVP-TE.",
+        "Despliegue de redes Core IP MPLS.",
+        "Despliegue de redes IP basadas en Ingeniería de Tráfico para señalizaciòn de trunking de voz.",
+        "Despliegue de red de routers BRAS e integración con plataformas de provisioning, policy enforcement y Radius..",
+      ]
+    },
+    {
+      "company": "Daitek S.A.",
+      "position": "Systems Presales Engineer",
+      "url": "https://www.daitek.com.ar/",
+      "start_date": "201204",
+      "end_date": "201512",
+      "summary": "Otorga soluciones que se ajustan a resolver las necesidades de los clientes en el ámbito de tecnologías y sistemas.",
+      "highlights":
+      [
+        "Implementación de redes de Visibilidad mediante una solución Network Packet Brockers y herramientas de Monitoreo.",
+        "Implementación de Sistemas de Lawfull Interception.",
+        "Implementación de sistemas de monitoreo de aplicaciones mediante agentes.",
+        "Implementación de sistemas de monitoreo de performance de red.",
+      ]
+    },
+    {
+      "company": "Hynet S.A.",
+      "position": "Network Presales Engineer",
+      "url": "https://https://www.linkedin.com/company/hynet-s.a./posts/?feedView=all/",
+      "start_date": "200909",
+      "end_date": "201203",
+      "summary": "Ofrece bienes y servicios de tenología de redes, cyberseguridad, virtualización y storage.",
+      "highlights": 
+      [
+        "Implementación de Redes de arquitectura campus en edificio Cancillería.",
+        "Implementación de Redes de arquitectura Data Center en Edificio Cancillería.",
+        "Implementación de sistemas de WAN Optimization Riverbed en Banco Provincia.",
+        "Implementación de redes de arquitectura Campus en Gobierno de La Pampa.",
+        "Implementación de redes de arquitectura Data Center y DCI en Gobierno de La Pampa.",
+        "Implementaciòn de redes de arquitectura Campus en PAMI.",
+      ]
+    },
+    {
+      "company": "Telefónica de Argentina S.A.",
+      "position": "Sr. Network Engineer",
+      "url": "https://www.telefonica.com.ar/",
+      "start_date": "200409",
+      "end_date": "200909",
+      "summary": "Empresa de Telecomunicaciones líder en su mercado.",
+      "highlights": 
+      [
+        "Implementación de Redes de servicios L3VPN-L2VPN a Entidades Bancarias, de Educación y Gobierno.",
+        "Implementación de routers BRAS Juniper para Servicio IP Residenciales.",
+        "Implementación de Rotuers de Borde PE y P Cisco y Juniper de Core IP MPLS.",
+        "Implementación de routers Route Reflectors Cisco y Juniper.",
+        "Implementación de Radios Alcatel SMC y aplicación de políticas basadas en radius.",
+        "Implementación de Policy Manager SAE Juniper.",
+      ]
+    },
+    {
+      "company": "Telefónica de Argentina S.A.",
+      "position": "SSr Network Engineer",
+      "url": "https://www.telefonica.com.ar/",
+      "start_date": "200209",
+      "end_date": "200409",
+      "summary": "Empresa de Telecomunicaciones líder en su mercado.",
+      "highlights": 
+      [
+        "Team leader del servicio de Subscriber management de sesiones PPP.",
+        "Configuración del servicio de HTTP redirector mediante captive portal.",
+        "Configuración de DNS Bind.",
+        "Configuración de Firewalls Juniper.",
+        "Conffiguración de ISPs Proxy Radius Services.",
+        "Creación del servicio de Túnels IPSec con Firewalls Juniper.",
+        "Puesta en marcha de IDS Cisco.",
+        "Puesta en marcha del servicio de Video Caching.",
+        "Puesta en marcha del servicio de Web Caching.",
+        "Team leader de operación de los equipos BRAS Broadband Access Unisphere Juniper/Shasta Nortel.",
+        "Team leader de operación de los equipos Switches/Routers/Firewall Cisco.",
+        "Team leader de operación de los Radius Servers and IPAM SMC Alcatel.",
+      ]
+    },
+    {
+      "company": "Telefónica de Argentina S.A.",
+      "position": "Jr Network Engineer",
+      "url": "https://www.telefonica.com.ar/",
+      "start_date": "200109",
+      "end_date": "200209",
+      "summary": "Empresa de Telecomunicaciones líder en su mercado.",
+      "highlights": 
+      [
+        "Expansión de la red IP.",
+        "Despliegue de BRAS Shasta de Nortel.",
+        "Despliegue de Routers Cisco c7609.",
+        "Team leader del servicio Dial UP.",
+        "Team leader del servicio Revenue Sharing Dial UP.",
+        "Team leader de Radius SMC Alcatel.",
+      ]
+    },
+    {
+      "company": "Telefónica de Argentina S.A.",
+      "position": "Training Grantee Network Engineer",
+      "url": "https://www.telefonica.com.ar/",
+      "start_date": "199902",
+      "end_date": "200109",
+      "summary": "Empresa de Telecomunicaciones líder en su mercado.",
+      "highlights": 
+      [
+        "Construcción de red de Gestión Cisco.",
+        "Configuración de Firewall Cisco.",
+        "Creación de la red de Servicio ICW mediante red Cisco IOS: Switches, Routers y Firewall.",
+        "Configuración de los routers Cisco LAC.",
+        "Configuración de routers Cisco LNS para servicios de ISPs con acceso de Banda Ancha ADSL.",
+        "Configuración de la red ATM Cisco: BPX, IGX, MGX.",
+      ]
+    },
+    {
+      "company": "Telefónica de Argentina S.A.",
+      "position": "Trainee Network Engineer",
+      "url": "https://www.telefonica.com.ar/",
+      "start_date": "200909",
+      "end_date": "201203",
+      "summary": "Empresa de Telecomunicaciones líder en su mercado.",
+      "highlights": 
+      [
+        "Diseño y desarrollo de placas electrónicas, basadas en microcontroladores Atmel AVR con stack TCP/IP y electrónica digital asociada.",
+        "Programación en C++ y Assembler.",
+        "Desarrollo de Diagramas esquemáticos, librerías de SCH, Librerías de PCB, Políticas granulares para establecimiento de autoruteo y creación y testing de placas PCB.",
+      ]
+    },    
+  ],
+  "projects": [
+    {
+      "title": "Educational Content Creator on YouTube",
+      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
+      "url": "https://youtube.com/c/coreyms",
+      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
+      "images": [
+        {
+          "img_path": "portfolio_media/yt1.png",
+          "caption": "Main Channel"
+        },
+        {
+          "img_path": "portfolio_media/yt2.png",
+          "caption": "Tutorials"
+        },
+        {
+          "img_path": "portfolio_media/yt3.png",
+          "caption": "Live Streams"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Heritage Point Assisted Living",
+      "position": "Computer Assistance",
+      "url": "https://www.heritage-point.com/",
+      "start_date": "2012",
+      "end_date": "2015",
+      "summary": "Helped residents with any computer problems for two hours each week. Mainly helped with networking, typing, basic instruction, and troubleshooting.",
+      "highlights": []
+    },
+    {
+      "organization": "Marshall University",
+      "position": "Student Ambassador",
+      "url": "https://marshall.edu",
+      "start_date": "2007",
+      "end_date": "2008",
+      "summary": "Gave campus tours, organized promotional events, and ran summer orientation.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Marshall University",
+      "location": "Hungington, WV, USA",
+      "url": "https://marshall.edu",
+      "degrees": [
+        "Bachelor of Science in Computer Science",
+        "Minor in Mathematics"
+      ],
+      "honors": [
+        "2010 Outstanding Student Award",
+        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
+        "Placed in a District ACM ICPC Team Programming Contest"
+      ],
+      "gpa_cumulative": "3.29",
+      "gpa_major": "3.93",
+      "graduation_date": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, Flask, Django",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "System Administration, Linux",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "JavaScript, HTML, CSS",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Woodworking",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/ww1.jpg",
+          "caption": "Chess Board made from Walnut and Maple"
+        },
+        {
+          "img_path": "portfolio_media/ww2.jpg",
+          "caption": "Wooden Necklace from Walnut Scrap"
+        }
+      ]
+    }
+  ],
+  "languages": [],
+  "references": []
+}
