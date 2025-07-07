@@ -2,7 +2,8 @@
   "name": "Eduardo Andrés Cruz",
   "label": "Network Engineer",
   "image_path": "portfolio_media/profile.jpg",
-  "contact": {
+  "contact": 
+  {
     "email": "cruzeduardoa@gmail.com",
     "phone": "+5491136743481",
     "location": "Buenos Aires, AR"
@@ -170,9 +171,9 @@
       [
         "Diseño y desarrollo de placas electrónicas, basadas en microcontroladores Atmel AVR con stack TCP/IP y electrónica digital asociada.",
         "Programación en C++ y Assembler.",
-        "Desarrollo de Diagramas esquemáticos, librerías de SCH, Librerías de PCB, Políticas granulares para establecimiento de autoruteo y creación y testing de placas PCB.",
+        "Desarrollo de Diagramas esquemáticos, librerías de SCH, Librerías de PCB, Políticas granulares para establecimiento de autoruteo y creación y testing de placas PCB."
       ]
-    },    
+    }    
   ],
   "projects": [
     {
