@@ -175,7 +175,8 @@
       ]
     }    
   ],
-  "projects": [
+  "projects": 
+  [
     {
       "title": "Educational Content Creator on YouTube",
       "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
@@ -197,17 +198,8 @@
       ]
     }
   ],
-    {
-      "organization": "Marshall University",
-      "position": "Student Ambassador",
-      "url": "https://marshall.edu",
-      "start_date": "2007",
-      "end_date": "2008",
-      "summary": "Gave campus tours, organized promotional events, and ran summer orientation.",
-      "highlights": []
-    }
-  ],
-  "education": [
+   "education": 
+  [
     {
       "institution": "Marshall University",
       "location": "Hungington, WV, USA",
@@ -226,7 +218,8 @@
       "graduation_date": "2010"
     }
   ],
-  "skills": [
+  "skills": 
+  [
     {
       "name": "VLAN",
       "proficiency": 100,
@@ -242,12 +235,12 @@
       "proficiency": 100,
       "proficiency_label": "Expert"
     },
-     {
+    {
       "name": "BPDU Guard",
       "proficiency": 100,
       "proficiency_label": "Expert"
     },
- {
+    {
       "name": "Port Security Guard",
       "proficiency": 100,
       "proficiency_label": "Expert"
@@ -328,11 +321,13 @@
       "proficiency_label": "Expert"
     }
   ],
-  "interests": [
+  "interests": 
+  [
     {
       "name": "Domotica",
       "summary": "",
-      "images": [
+      "images": 
+      [
         {
           "img_path": "portfolio_media/ww1.jpg",
           "caption": "Chess Board made from Walnut and Maple"
@@ -345,12 +340,15 @@
     }
   ],
   "languages":
-[
+  [
   {
       "name": "English",
       "Certificate": "FCE",
       "proficiency_label": "Upper Intermidiate B2"
     }
-],
-  "references": []
+  ],
+  "references": 
+  [
+    
+  ]
 }
