@@ -51,7 +51,7 @@
         "Diseño de redes con Ingeniería de Tráfico con RSVP-TE.",
         "Despliegue de redes Core IP MPLS.",
         "Despliegue de redes IP basadas en Ingeniería de Tráfico para señalizaciòn de trunking de voz.",
-        "Despliegue de red de routers BRAS e integración con plataformas de provisioning, policy enforcement y Radius..",
+        "Despliegue de red de routers BRAS e integración con plataformas de provisioning, policy enforcement y Radius.."
       ]
     },
     {
@@ -66,7 +66,7 @@
         "Implementación de redes de Visibilidad mediante una solución Network Packet Brockers y herramientas de Monitoreo.",
         "Implementación de Sistemas de Lawfull Interception.",
         "Implementación de sistemas de monitoreo de aplicaciones mediante agentes.",
-        "Implementación de sistemas de monitoreo de performance de red.",
+        "Implementación de sistemas de monitoreo de performance de red."
       ]
     },
     {
@@ -83,7 +83,7 @@
         "Implementación de sistemas de WAN Optimization Riverbed en Banco Provincia.",
         "Implementación de redes de arquitectura Campus en Gobierno de La Pampa.",
         "Implementación de redes de arquitectura Data Center y DCI en Gobierno de La Pampa.",
-        "Implementaciòn de redes de arquitectura Campus en PAMI.",
+        "Implementaciòn de redes de arquitectura Campus en PAMI."
       ]
     },
     {
@@ -100,7 +100,7 @@
         "Implementación de Rotuers de Borde PE y P Cisco y Juniper de Core IP MPLS.",
         "Implementación de routers Route Reflectors Cisco y Juniper.",
         "Implementación de Radios Alcatel SMC y aplicación de políticas basadas en radius.",
-        "Implementación de Policy Manager SAE Juniper.",
+        "Implementación de Policy Manager SAE Juniper."
       ]
     },
     {
@@ -123,7 +123,7 @@
         "Puesta en marcha del servicio de Web Caching.",
         "Team leader de operación de los equipos BRAS Broadband Access Unisphere Juniper/Shasta Nortel.",
         "Team leader de operación de los equipos Switches/Routers/Firewall Cisco.",
-        "Team leader de operación de los Radius Servers and IPAM SMC Alcatel.",
+        "Team leader de operación de los Radius Servers and IPAM SMC Alcatel."
       ]
     },
     {
@@ -140,7 +140,7 @@
         "Despliegue de Routers Cisco c7609.",
         "Team leader del servicio Dial UP.",
         "Team leader del servicio Revenue Sharing Dial UP.",
-        "Team leader de Radius SMC Alcatel.",
+        "Team leader de Radius SMC Alcatel."
       ]
     },
     {
@@ -157,7 +157,7 @@
         "Creación de la red de Servicio ICW mediante red Cisco IOS: Switches, Routers y Firewall.",
         "Configuración de los routers Cisco LAC.",
         "Configuración de routers Cisco LNS para servicios de ISPs con acceso de Banda Ancha ADSL.",
-        "Configuración de la red ATM Cisco: BPX, IGX, MGX.",
+        "Configuración de la red ATM Cisco: BPX, IGX, MGX."
       ]
     },
     {
@@ -326,7 +326,7 @@
       "name": "SSL",
       "proficiency": 100,
       "proficiency_label": "Expert"
-    },
+    }
   ],
   "interests": [
     {
@@ -349,8 +349,8 @@
   {
       "name": "English",
       "Certificate": "FCE",
-      "proficiency_label": "Upper Intermidiate B2",
-    },
+      "proficiency_label": "Upper Intermidiate B2"
+    }
 ],
   "references": []
 }
