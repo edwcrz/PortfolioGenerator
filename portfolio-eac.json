@@ -6,7 +6,7 @@
   {
     "email": "cruzeduardoa@gmail.com",
     "phone": "+5491136743481",
-    "location": "Buenos Aires, AR"
+    "location": "Ciudad Jardín Lomas del Palomar, Pcia. de Bs. As., AR"
   },
   "summary": "Senior Network Engineer con 25+ años de experiencia en arquitectura y  operación de Redes iP y Data Centers, incluyendo IP/MPLS Backbones, SD-WAN, Firewalls y automatización. Mindset en cultura No-ops basada en automatización de procesos y de configuración redes y servicios de red. Operación de una de las redes IP mas importantes en Argentina en el momento de mayor crecimiento de la historia de las Redes IP, con aporte de valor en innovación contínua, mejora de KPI de performance y experiencia de usuario. Líder de equipos técnicos con enfoque en resultados y enfoque en automatización basada en Intent Based de día 0 y día 1 para otorgar día 2+ con agilidad en time to market y time to delivery, salud y alta disponiblidad de red..",
   "url": "https://eduardocruz.edu.ar",
@@ -28,6 +28,11 @@
       "svg_path": "img/instagram.svg"
     },
     {
+      "label": "Linkedin",
+      "url": "https://www.linkedin.com/in/cruzeduardoa/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
       "label": "Github",
       "url": "https://github.com/edwcrz",
       "svg_path": "img/github.svg"
@@ -39,8 +44,8 @@
       "company": "NEC Argentina S.A.",
       "position": "Networking Program Manager",
       "url": "https://ar.nec.com/",
-      "start_date": "201512",
-      "end_date": "202503",
+      "start_date": "14/12/2015",
+      "end_date": "25/03/2025",
       "summary": "Unidad de negocios en Service Providers a nivel mundial.",
       "highlights": 
       [
@@ -58,8 +63,8 @@
       "company": "Daitek S.A.",
       "position": "Systems Presales Engineer",
       "url": "https://www.daitek.com.ar/",
-      "start_date": "201204",
-      "end_date": "201512",
+      "start_date": "02/04/2012",
+      "end_date": "13/12/2015",
       "summary": "Otorga soluciones que se ajustan a resolver las necesidades de los clientes en el ámbito de tecnologías y sistemas.",
       "highlights":
       [
@@ -73,8 +78,8 @@
       "company": "Hynet S.A.",
       "position": "Network Presales Engineer",
       "url": "https://https://www.linkedin.com/company/hynet-s.a./posts/?feedView=all/",
-      "start_date": "200909",
-      "end_date": "201203",
+      "start_date": "02/09/2009",
+      "end_date": "01/03/2012",
       "summary": "Ofrece bienes y servicios de tenología de redes, cyberseguridad, virtualización y storage.",
       "highlights": 
       [
@@ -90,8 +95,8 @@
       "company": "Telefónica de Argentina S.A.",
       "position": "Sr. Network Engineer",
       "url": "https://www.telefonica.com.ar/",
-      "start_date": "200409",
-      "end_date": "200909",
+      "start_date": "02/09/2004",
+      "end_date": "01/09/2009",
       "summary": "Empresa de Telecomunicaciones líder en su mercado.",
       "highlights": 
       [
@@ -107,8 +112,8 @@
       "company": "Telefónica de Argentina S.A.",
       "position": "SSr Network Engineer",
       "url": "https://www.telefonica.com.ar/",
-      "start_date": "200209",
-      "end_date": "200409",
+      "start_date": "02/09/2002",
+      "end_date": "01/09/2004",
       "summary": "Empresa de Telecomunicaciones líder en su mercado.",
       "highlights": 
       [
@@ -130,8 +135,8 @@
       "company": "Telefónica de Argentina S.A.",
       "position": "Jr Network Engineer",
       "url": "https://www.telefonica.com.ar/",
-      "start_date": "200109",
-      "end_date": "200209",
+      "start_date": "02/09/2001",
+      "end_date": "01/09/2002",
       "summary": "Empresa de Telecomunicaciones líder en su mercado.",
       "highlights": 
       [
@@ -147,8 +152,8 @@
       "company": "Telefónica de Argentina S.A.",
       "position": "Training Grantee Network Engineer",
       "url": "https://www.telefonica.com.ar/",
-      "start_date": "199902",
-      "end_date": "200109",
+      "start_date": "02/08/2000",
+      "end_date": "01/09/2001",
       "summary": "Empresa de Telecomunicaciones líder en su mercado.",
       "highlights": 
       [
@@ -164,8 +169,8 @@
       "company": "Telefónica de Argentina S.A.",
       "position": "Trainee Network Engineer",
       "url": "https://www.telefonica.com.ar/",
-      "start_date": "200909",
-      "end_date": "201203",
+      "start_date": "31/01/1999",
+      "end_date": "01/08/2000",
       "summary": "Empresa de Telecomunicaciones líder en su mercado.",
       "highlights": 
       [
@@ -201,21 +206,19 @@
    "education": 
   [
     {
-      "institution": "Marshall University",
-      "location": "Hungington, WV, USA",
-      "url": "https://marshall.edu",
-      "degrees": [
-        "Bachelor of Science in Computer Science",
-        "Minor in Mathematics"
+      "institution": "Universidad Nacional de La Matanza",
+      "location": "San Justo, Pcia. de Bs. As., AR",
+      "url": "https://www.unlam.edu.ar/",
+      "degrees": 
+      [
+        "Electronics Engineer"
       ],
-      "honors": [
-        "2010 Outstanding Student Award",
-        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
-        "Placed in a District ACM ICPC Team Programming Contest"
+      "honors": 
+      [
       ],
-      "gpa_cumulative": "3.29",
-      "gpa_major": "3.93",
-      "graduation_date": "2010"
+       "_gpa_cumulative": "8,50",
+       "_gpa_major": "10,00",
+      "graduation_date": "01/06/2000"
     }
   ],
   "skills": 
@@ -324,8 +327,8 @@
   "interests": 
   [
     {
-      "name": "Domotica",
-      "summary": "",
+      "name": "Terraform, AWS, Docker, Kubernets, Machine Learning, Python, Jinja2, FastAPI",
+      "summary": "DevOps, SRE, Backend, Automation",
       "images": 
       [
         {
@@ -349,6 +352,6 @@
   ],
   "references": 
   [
-    
+
   ]
 }
