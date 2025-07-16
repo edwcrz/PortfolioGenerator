@@ -1,21 +1,41 @@
 import json
 from datetime import UTC, datetime
 from pathlib import Path
+from Jinja2 import Environment, FileSystemLoader
 
-from jinja2 import Environment, FileSystemLoader
+
+# import numpy
+# import pandas
+# import matplotlib
+
+# matplotlib.get_data_path
+# pandas.array
+# numpy(bool)
 
 # Load JSON data
 with Path("PortfolioEAC.json").open(encoding="utf-8") as f:
     data = json.load(f)
 
 # Add any extra context if needed
-data["current_year"] = datetime.now(tz=UTC).year
+data["current_year"] = datetime.now(tz=None).year
+j=0
+
+if "work_experience" in data:
+    for trabajo in data["work_experience"]:
+        fechafinal = trabajo["end_date"]
+        fechainicial = trabajo["start_date"]
+        fechaleidaend = datetime.strptime(fechafinal, "%d/%m/%Y")
+        fechaleidastart = datetime.strptime(fechainicial, "%d/%m/%Y")
+        trabajo["diastrabajados"] = fechaleidaend - fechaleidastart
+        data["work_experience"][j]=trabajo
+        j+=1
 
 if "social_links" in data:
     for link in data["social_links"]:
         if link.get("svg_path"):
             with Path(link["svg_path"]).open(encoding="utf-8") as svg_file:
                 link["svg_data"] = svg_file.read()
+
 
 # Set up Jinja environment
 env = Environment(loader=FileSystemLoader("."), autoescape=True)
