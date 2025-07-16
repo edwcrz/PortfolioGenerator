@@ -1,7 +1,7 @@
 import json
 from datetime import UTC, datetime
 from pathlib import Path
-from Jinja2 import Environment, FileSystemLoader
+from jinja2 import Environment, FileSystemLoader
 
 
 # import numpy
